@@ -19,7 +19,7 @@ This is a modern, immersive, and easy-to-update personal portfolio built with Sv
 
 ## Getting Started
 
-```bash
+```bash 
 npm install
 npm run dev
 ```
